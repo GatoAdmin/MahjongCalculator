@@ -1,0 +1,179 @@
+item {
+    id: 1
+    name: 'honour_1'
+}
+
+item {
+    id: 2
+    name: 'honour_2'
+}
+
+item {
+    id: 3
+    name: 'honour_3'
+}
+
+item {
+    id: 4
+    name: 'honour_4'
+}
+
+item {
+    id: 5
+    name: 'honour_5'
+}
+
+item {
+    id: 6
+    name: 'honour_6'
+}
+
+item {
+    id: 7
+    name: 'honour_7'
+}
+
+item {
+    id: 8
+    name: 'man_1'
+}
+
+item {
+    id: 9
+    name: 'man_2'
+}
+
+item {
+    id: 10
+    name: 'man_3'
+}
+
+item {
+    id: 11
+    name: 'man_4'
+}
+
+item {
+    id: 12
+    name: 'man_5'
+}
+
+item {
+    id: 13
+    name: 'man_6'
+}
+
+item {
+    id: 14
+    name: 'man_7'
+}
+
+item {
+    id: 15
+    name: 'man_8'
+}
+
+item {
+    id: 16
+    name: 'man_9'
+}
+
+item {
+    id: 17
+    name: 'pin_1'
+}
+
+item {
+    id: 18
+    name: 'pin_2'
+}
+
+item {
+    id: 19
+    name: 'pin_3'
+}
+
+item {
+    id: 20
+    name: 'pin_4'
+}
+
+item {
+    id: 21
+    name: 'pin_5'
+}
+
+item {
+    id: 22
+    name: 'pin_6'
+}
+
+item {
+    id: 23
+    name: 'pin_7'
+}
+
+item {
+    id: 24
+    name: 'pin_8'
+}
+
+item {
+    id: 25
+    name: 'pin_9'
+}
+
+item {
+    id: 26
+    name: 'pin_aka_5'
+}
+
+item {
+    id: 27
+    name: 'sou_1'
+}
+
+item {
+    id: 28
+    name: 'sou_2'
+}
+
+item {
+    id: 29
+    name: 'sou_3'
+}
+
+item {
+    id: 30
+    name: 'sou_4'
+}
+
+item {
+    id: 31
+    name: 'sou_5'
+}
+
+item {
+    id: 32
+    name: 'sou_6'
+}
+
+item {
+    id: 33
+    name: 'sou_7'
+}
+
+item {
+    id: 34
+    name: 'sou_8'
+}
+
+item {
+    id: 35
+    name: 'sou_9'
+}
+
+item {
+    id: 36
+    name: 'sou_aka_5'
+}
